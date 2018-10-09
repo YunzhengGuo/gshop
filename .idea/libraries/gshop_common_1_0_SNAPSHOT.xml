@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gshop_common-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gshop_parent/gshop_common/target/gshop_common-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
